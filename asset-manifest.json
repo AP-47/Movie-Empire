@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/Movie-Empire/static/css/main.334bdeb1.css",
+    "main.js": "/Movie-Empire/static/js/main.06b90413.js",
+    "index.html": "/Movie-Empire/index.html",
+    "static/media/search.svg": "/Movie-Empire/static/media/search.eb0cf9050f69dad9f20ca2537fa04626.svg",
+    "main.334bdeb1.css.map": "/Movie-Empire/static/css/main.334bdeb1.css.map",
+    "main.06b90413.js.map": "/Movie-Empire/static/js/main.06b90413.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.334bdeb1.css",
+    "static/js/main.06b90413.js"
+  ]
+}
